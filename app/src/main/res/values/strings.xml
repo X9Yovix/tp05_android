@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP05</string>
+    <string name="add">Ajouter tache</string>
+    <string name="name">Nom du tache</string>
+    <string name="date">Ajouter un jour</string>
+    <string name="todo">image to do </string>
+</resources>

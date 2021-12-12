@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP05</string>
+    <string name="add">Add Task</string>
+    <string name="name">Name of the task</string>
+    <string name="date">Choose day</string>
+    <string name="todo">to do picture</string>
+</resources>
